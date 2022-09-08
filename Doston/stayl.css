@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Fredoka One';
+}
+header{
+height: 862px;
+left: 0px;
+top: 0px;
+
+
+background: #F2CEDA;
+}
+.list{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-top: 41px;
+  
+}
+.pinguin{
+    margin-top: 10px;
+}
+.red {
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+color: #D23166;
+}
+.list_item{
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+color: #150101;
+opacity: 0.6;
+margin-left: 40px;
+}
+.btn-danger{
+ font-family: 'Hind Madurai';
+font-style: normal;
+margin-top: 25px;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+color: #FAFAFA;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+}
+.Sweet{
+    margin-top: 196px;
+    margin-bottom: 6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    color: #0F0101;
+}
+.ice{
+    color:  #D23166;
+}
+.Feel{
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57.33px;
+    line-height: 120.5%;
+    color: #0F0101;
+    opacity: 0.9;
+    
+}
+.inside{
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #0F0101;
+opacity: 0.6;
+margin-top: 35px;
+margin-bottom: 63px;
+}
