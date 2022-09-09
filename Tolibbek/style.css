@@ -1,3 +1,197 @@
-h1{
-    color: blue;
+*{
+    margin: 0;
+    padding: 0;
+}
+#container_backround{
+    background : 
+    #F2CEDA;
+    padding-bottom: 85px;
+
+}
+.navvan{
+    padding-top: 45px;
+    list-style: none;
+    display: flex;
+    
+}
+.navbar_words{
+    padding-left: 20px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 16px;
+
+color: #150101;
+
+
+}
+.buy_noww{
+    margin-top: 25px;
+    padding: 14px 50px;
+    background: #D23166;
+border-radius: 5px;
+border: none;
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+
+opacity: 1;
+
+color: #FAFAFA;
+}
+.navbar1_words{
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #D23166;
+}
+.imgaelog{
+    padding-top: 10px;
+}
+.sweet_fun{
+    padding-top: 190px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.1em;
+
+color: #0F0101;
+}
+.feel_inside{
+    font-family: 'Fredoka One';
+font-style: normal;
+font-weight: 400;
+font-size: 57.33px;
+line-height: 120.5%;
+/* or 69px */
+
+
+color: #0F0101;
+
+opacity: 0.9;
+}
+.ice_ream{
+    color: #D23166;
+    font-family: 'Fredoka One';
+font-style: normal;
+font-weight: 400;
+font-size: 57.33px;
+line-height: 120.5%;
+/* or 69px */
+
+
+
+
+opacity: 0.9;
+}
+.some_food{
+    
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* or 150% */
+padding-top: 20px;
+
+color: #0F0101;
+
+opacity: 0.6;
+}
+.vow_aboy{
+    margin-top: 30px;
+    padding: 14px 50px;
+    background: #D23166;
+border-radius: 5px;
+border: none;
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+
+opacity: 1;
+
+color: #FAFAFA;
+}
+.ellipse18{
+    padding-top: 400px;
+}
+#col_4{
+    position: relative;
+}
+.eep88j{
+    position: absolute;
+   
+left: -100px;
+top: 126px;
+}
+.milksut{
+    position: absolute;
+    left: -250px;
+top: 251px;
+padding-bottom: 50px;
+}
+#col_2card{
+    background: #FFFFFF;
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.03);
+border-radius: 7px;
+text-align: center;
+margin-top: 100px;
+}
+.frreship{
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height */
+
+padding-top: 22px;
+color: #000000;
+}
+.lastchanse{
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+
+opacity: 0.6;
+}
+.groupngp{
+    padding-top: 30px;
+}
+#col_3card{
+    background: #FFFFFF;
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.03);
+border-radius: 7px;
+text-align: center;
+margin-top: 100px;
+}
+#col_4card{
+    background: #FFFFFF;
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.03);
+border-radius: 7px;
+text-align: center;
+margin-top: 100px;
+}
+#col_5card{
+    background: #FFFFFF;
+box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.03);
+border-radius: 7px;
+text-align: center;
+margin-top: 100px;
 }
