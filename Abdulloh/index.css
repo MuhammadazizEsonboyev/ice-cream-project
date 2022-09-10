@@ -1,1 +1,42 @@
-    
+    *{
+        padding: 0%;
+        margin: 0%;
+    }
+    .list{
+        list-style: none;
+        padding-left: 20px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 16px;
+        color: #150101;
+        opacity: 0.6;
+    }
+   .logopngh{
+    padding-top: 10px;
+   }
+    .buttonnav{
+        margin-top: 25px;
+        width: 165px;
+        height: 49px;
+        left: 1205px;
+        top: 25px;
+        background: #D23166;
+        border-radius: 5px;
+        border: none;
+        color: 
+        #FAFAFA;
+    }
+    .list_home{
+        
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+list-style: none;
+color: #D23166;
+    }
