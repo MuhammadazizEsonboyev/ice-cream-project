@@ -34,6 +34,7 @@ justify-content: space-between;
     background: #D23166;
 border-radius: 6px;
 border: none;
+color: #FAFAFA;
 }
 
 .epson{
@@ -48,6 +49,7 @@ border: none;
     border-radius: 6px;
     background: #D23166;
     border: none;
+    color: #FAFAFA;
 }
 
 .apps{
@@ -61,6 +63,7 @@ padding-top: 30px;
 }
 
 .small{
+    text-align: center;
     width: 250px;
 height: 200px;
 left: 252px;
@@ -81,6 +84,7 @@ border: none;
     padding: 9px 28px;
     border-radius: 7px;
     border: none;
+    color: #FAFAFA;
 }
 
 
@@ -90,3 +94,25 @@ border: none;
 
 }
 
+.sect{
+    background-color: #F2CEDA;
+}
+
+.rasm2{
+    padding-left: 200px;
+}
+
+.white1{
+  color: white;
+}
+
+.htext{
+    margin-top: 137px;
+    
+}
+
+.text_long{
+    list-style: none;
+    padding-left: 20px;
+    
+}
