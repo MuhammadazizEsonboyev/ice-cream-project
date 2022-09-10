@@ -8,6 +8,7 @@
 
 .list_item{
     list-style: none;
+    
 }
 
 .list_item a{
@@ -15,10 +16,12 @@ font-weight: 700;
 text-decoration: none;
 font-size: 18px;
 color: #1F1534;
+
 }
 
 .none{
 text-align: center;
+justify-content: space-between;
 }
 
 
@@ -30,6 +33,7 @@ text-align: center;
     padding: 9px 28px;
     background: #D23166;
 border-radius: 6px;
+border: none;
 }
 
 .epson{
@@ -43,6 +47,7 @@ border-radius: 6px;
     padding: 9px 28px;
     border-radius: 6px;
     background: #D23166;
+    border: none;
 }
 
 .apps{
@@ -63,6 +68,7 @@ top: 962px;
 background: #FFFFFF;
 box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.03);
 border-radius: 7px;
+border: none;
 }
 
 .text{
@@ -74,4 +80,13 @@ border-radius: 7px;
     background-color: #D23166;
     padding: 9px 28px;
     border-radius: 7px;
+    border: none;
 }
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+
+}
+
