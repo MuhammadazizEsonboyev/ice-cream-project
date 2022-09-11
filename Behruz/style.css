@@ -114,5 +114,20 @@ border: none;
 .text_long{
     list-style: none;
     padding-left: 20px;
-    
+    text-align: center;
+
 }
+.non{
+    margin-top: 260PX;
+}
+
+.product{
+    margin-top: 137px;
+   
+}
+
+.rasmlemon{
+    padding-left: 100px;
+    padding-top: 200px;
+}
+
