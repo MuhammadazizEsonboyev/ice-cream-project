@@ -195,3 +195,382 @@ border-radius: 7px;
 text-align: center;
 margin-top: 100px;
 }
+.section_3_section{
+    background: #F8EDF0;
+    margin-top: 100px;
+}
+.brown_sugar{
+    padding-top: 135px;
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 600;
+font-size: 44.2px;
+line-height: 49px;
+
+color: #150101;
+}
+.MC_donald{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+padding-top: 15px;
+
+color: #150101;
+
+opacity: 0.6;
+}
+.SEE_DETAL{
+    background: #D64374;
+    border-radius: 5px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+padding: 14px 48px;
+color: #FAFAFA;  
+border: none;
+margin-top: 10px;
+}
+#BuRGER_king{
+    display: flex;
+}
+.product_our{
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 600;
+font-size: 44.2px;
+line-height: 61px;
+/* identical to box height */
+
+padding-top: 130px;
+color: #150101;
+}
+.ul_all_all{
+    list-style: none;
+    display: flex;
+}
+.list_item_li_li_ice{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+padding-top: 60px;
+color: #000000;
+}
+.list_item_li_li{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+padding-top: 60px;
+padding-left: 35px;
+color: #000000;
+
+opacity: 0.6;
+}
+.list_item_li_li_ice::after{
+    content: "";
+    display: block;
+    width: 90px;
+    height: 2px;
+    background: 
+    #D64374;
+    text-align: center;
+    margin-left: 7px;
+}
+.brown_bread{
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 36px;
+/* identical to box height */
+
+padding-top: 110px;
+padding-left: 285px;
+color: #000000;
+}
+.Bon_pioner{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+padding-left: 285px;
+
+color: #000000;
+
+opacity: 0.7;
+}
+.span_h1_h2{
+    display: flex;
+    padding-left: 285px;
+}
+.ice_1955{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 36px;
+    
+    color: #000000;
+}
+.ice_2255{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    text-decoration-line: line-through;
+    
+    color: #000000;
+    
+    opacity: 0.7;
+}
+.now_ice{
+    background: #D64374;
+border-radius: 5px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+margin-left: 285px;
+text-align: center;
+
+color: #FAFAFA;
+padding: 14px 45px;
+border: none;
+}
+.rectangle_74{
+    padding-top: 50px;
+}
+.CayENe{
+    padding-top: 100px;
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 36px;
+/* identical to box height */
+
+text-align: right;
+
+color: #000000;
+}
+.Bon_pioner_2{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+text-align: right;
+
+color: #000000;
+
+opacity: 0.7;
+}
+.span_h1_h2_2{
+    display: flex;
+    padding-left: 395px;
+    
+}
+.now_ice_buy_now{
+    background: #D64374;
+    border-radius: 5px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    margin-left: 374px;
+    text-align: center;
+    
+    color: #FAFAFA;
+    padding: 14px 45px;
+    border: none;
+}
+.rectangle_78{
+    margin-left: 100px;
+}
+.SWeet_corn{
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 36px;
+/* identical to box height */
+
+padding-top: 150px;
+padding-left: 285px;
+color: #000000;
+}
+
+.ellipse_21{
+    margin-left: 30px;
+    padding-top: 200px;
+}
+.McNeill{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    padding-top: 200px;
+}
+.AMIRICAN{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+
+
+color: #000000;
+
+opacity: 0.7;
+}
+.Apprecite{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+padding-top: 45px;
+padding-left: 60px;
+color: #000000;
+
+opacity: 0.7;
+}
+.vergul{
+    transform: rotate(50deg);
+color: #F6762C;
+
+}
+.ongchap{
+    color: #F6762C;   
+}
+#colloc_5{
+    margin-top: -135px;
+    margin-left: 65px;
+}
+.maskgroup{
+    margin-left: 25px;
+}
+.maskgroup1{
+    margin-left: 19px;
+}
+.maskgroup2{
+    margin-left: 19px;
+    margin-right: 25px;
+}
+#coloccol4{
+    margin-top: -300px;
+}
+#collaloc5{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.container_row_col{
+    background: #F8EDF0;
+}
+.simple_way{
+    padding-left: 300px;
+    padding-top: 20px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 44.2px;
+line-height: 52px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.loked_so{
+    padding-top: 5px;
+    padding-left: 300px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.01em;
+    
+    color: #0F0101;
+    
+    opacity: 0.7;
+
+}
+.add_tofood{
+    padding-top: 20px;
+    padding-left: 300px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#row_wor{
+    padding-top: 150px;
+}
+.generich{
+    padding-left: 300px;
+}
+.questionin{
+    padding-top: 180px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 44px;
+line-height: 52px;
+text-align: center;
+
+color: #000000;
+
+}
+.emailadres{
+    margin-top: 20px;
+    border: 1px solid gray;
+    padding: 12px 250px 12px 30px;
+background: #FAFAFA;
+border-top-left-radius: 5px;
+border-bottom-left-radius: 5px;
+}
+.senddens{
+    margin-top: 20px;
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+    border: none;
+    background: #D64374;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+padding: 14px 40px;
+}
