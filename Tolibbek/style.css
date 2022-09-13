@@ -533,7 +533,9 @@ line-height: 26px;
 color: #000000;
 }
 #row_wor{
-    padding-top: 150px;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 150px;
 }
 .generich{
     padding-left: 300px;
@@ -573,4 +575,129 @@ color: #FFFFFF;
 border-top-right-radius: 5px;
 border-bottom-right-radius: 5px;
 padding: 14px 40px;
+}
+.image_28_photo{
+    position: absolute;
+    border-radius: 29px;
+    bottom: -45px;
+}
+.futter_backround{
+    margin-top: 130px;
+background: #0A0808;
+}
+.awful{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+.logo_PNG{
+    padding-top: 70px;
+}
+.fooaw{
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.face_inst_twitter{
+    padding-left: 5px;
+}
+.testimonals_one{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+padding-left: 37px;
+padding-top: 140px;
+color: #FFFFFF;
+}
+.testimonals{
+    
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+padding-left: 37px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+#coca-cola{
+    margin-top: 150px;
+    margin-left: 145px;
+}
+.testimonals_TWO{
+    
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.8;
+}
+.NEwSletter{
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+padding-top: 130px;
+
+color: #FFFFFF;
+}
+#second_email{
+    opacity: 0.5;
+border: 2px solid #D64374;
+border-top-left-radius: 5px;
+border-bottom-left-radius: 5px;
+background: #0A0808;
+padding: 10px 100px 10px 30px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+margin-right: -13px;
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+.subricribe_please{
+    background: #D64374;
+    padding: 8px ;
+    margin-top: 10px;
+    margin-left: 5px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 23px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+color: #FFFFFF;
 }
