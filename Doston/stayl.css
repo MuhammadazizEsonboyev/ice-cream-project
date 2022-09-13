@@ -16,6 +16,7 @@ top: 0px;
 background: #F2CEDA;
 }
 .list{
+    
     display: flex;
     list-style: none;
     justify-content: center;
@@ -29,7 +30,6 @@ background: #F2CEDA;
     margin-top: 126px;
 }
 .red {
-    
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
@@ -48,7 +48,7 @@ color: #150101;
 opacity: 0.6;
 margin-left: 40px;
 }
-.btn-danger{
+.btn .btn-danger{
  font-family: 'Hind Madurai';
 font-style: normal;
 margin-top: 25px;
@@ -57,11 +57,8 @@ font-size: 16px;
 line-height: 22px;
 color: #FAFAFA;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 16px;
+
+
 }
 .Sweet{
     margin-top: 196px;
@@ -257,12 +254,13 @@ opacity: 0.7;
 }
 #buy{
     margin-right: 28px;
+    color: #FAFAFA;
 }
 
 
 .btnFather{
     display: flex;
-    justify-content: end;
+    justify-content: start;
 }
 .cayenne{
     text-align: end;
@@ -295,6 +293,7 @@ opacity: 0.7;
   margin-left: 83%;
 }
 .thanks{
+    margin: 40px 124px 10px 0px;
     font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
@@ -302,16 +301,24 @@ font-size: 16px;
 line-height: 24px;
 color: #000000;
 opacity: 0.7;
+margin-bottom: 20px;
 }
 .mean{
     display: flex;
 }
 .aroow{
     display: flex;
-    justify-content: space-around;
+ justify-content: space-around;
+}
+.grate{
+    margin-top: 10px;
+    font-size: 30px;
 }
 .muz{
     padding-top: 56px;
+    border-radius: 20px;
+    border-top-right-radius: 70px;
+    border-top-left-radius: 70px;
 }
 .simple{
     margin-top: 87px;
@@ -341,6 +348,11 @@ background: #F8EDF0;
     letter-spacing: 0.01em;
     color: #0F0101;
     opacity: 0.7;
+}
+.child{
+    
+    text-align: start;
+    margin-top: 39px;
 }
 .touch{
     margin-left: 22px;
@@ -385,30 +397,33 @@ margin-bottom: 28px;
 
 }
 .throw{
+    border-radius: 5px;
     display: flex;
     justify-content: center;
+
   
     
 }
 .input{
-    padding: 29px 506px 29px 0px;
+    padding: 29px 436px 29px 0px;
     text-align: center;
     border-style: none;
     width: 637px;
 height: 74px;
 left: 433px;
 top: 5134px;
-
 background: #FAFAFA;
 border-radius: 5px;
+
 }
 .set{
-    padding: 20px 50px 17px;
-    border-style: none;
+padding: 20px 50px 20px;
+border-style: none;
 background: #D64374;
 border-radius: 5px;
+color: #FFFFFF;
 }
-.btn .btn-danger{
+.ture.btn-danger{
     font-family: 'Roboto';
 font-weight: 500;
 font-size: 20px;
@@ -468,11 +483,15 @@ color: #FFFFFF;
     padding: 20px 20px 29px  0px ;
     border-style: none;
     background: #D64374;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
     
 }
 .input1 {
     margin: 9px -13px 18px 150px;
     padding: 8px 110px 2px 28px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
 }
 .product{
     font-family: 'Roboto';
@@ -508,5 +527,8 @@ line-height: 19px;
 }
 .plastik{
     margin-right: 15px;
+}
+.quate{
+    color: #f6762c;
 }
 
