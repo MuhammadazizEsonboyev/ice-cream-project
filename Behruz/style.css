@@ -171,3 +171,33 @@ top: 4114px;
     padding-right: 50px;
     padding-top: 50px;
 }
+
+.intext{
+    margin-top: 191px;
+}
+
+.intext{
+    padding-right: 90px;
+}
+
+.question{
+    margin-top: 90px;
+    width: 637px;
+height: 74px;
+left: 433px;
+top: 5134px;
+
+background: #FAFAFA;
+border-radius: 5px;
+}
+
+.mind{
+  
+width: 134px;
+height: 74px;
+left: 936px;
+top: 5134px;
+color: #FFFFFF;
+background: #D64374;
+border-radius: 5px;
+}
