@@ -184,13 +184,13 @@ margin-top: 200px;
 height: 74px;
 left: 433px;
 top: 5134px;
-
+border: none;
 background: #FAFAFA;
 border-radius: 5px;
 }
 
 .mind{
-  
+    border: none;
 width: 134px;
 height: 74px;
 left: 936px;
@@ -198,11 +198,6 @@ top: 5134px;
 color: #FFFFFF;
 background: #D64374;
 border-radius: 5px;
-}
-
-.black{
-    margin-top: 149px;
-    background-color: black;
 }
 
 .awful{
@@ -214,11 +209,6 @@ border-radius: 5px;
 .dog{
 
     color: #FFFFFF;
-}
-
-.logo2{
-    padding-left: 30px;
-    padding-top: 70px;
 }
 
 .blog{
@@ -246,4 +236,66 @@ padding-left: 300px;
 
 .comeback{
    padding-left: 180px;
+}
+
+.bblack{
+    background-color: black;
+    margin-top: 129px;
+}
+
+.logo2{
+    padding-top: 70px;
+}
+
+.thedog{
+    padding-top: 20px;
+    color: white;
+}
+
+.among{
+    color: white;
+}
+
+.allsize{
+    color: #FAFAFA;
+    padding-left: 80px;
+    padding-top: 120px;
+}
+
+.farmer{
+    color: white;
+    padding-left: 80px;
+    padding-top: 120px;
+}
+
+
+.padpiska{
+    width: 125px;
+height: 55px;
+left: 1218px;
+top: 5525px;
+border: #D64374;
+background: #D23166;
+border-radius: 5px;
+color: white;
+}
+
+.inputblack{
+    margin-top: 160px;
+}
+
+.elboy{
+border-color: #D64374;
+color: white;
+padding: 12px 20px 12px 20px;
+background: #0A0808;border-radius: 5px;
+}
+
+.letr{
+    color: white;
+    
+}
+
+.smalllogo{
+    padding-left: 10px;
 }
