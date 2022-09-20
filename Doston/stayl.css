@@ -1,3 +1,7 @@
+/* <!---- Font Families----  */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto&display=swap');
 *{
     margin: 0px;
     padding: 0px;
@@ -12,6 +16,7 @@ top: 0px;
 background: #F2CEDA;
 }
 .list{
+    
     display: flex;
     list-style: none;
     justify-content: center;
@@ -25,7 +30,6 @@ background: #F2CEDA;
     margin-top: 126px;
 }
 .red {
-    
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
@@ -44,7 +48,7 @@ color: #150101;
 opacity: 0.6;
 margin-left: 40px;
 }
-.btn-danger{
+.btn .btn-danger{
  font-family: 'Hind Madurai';
 font-style: normal;
 margin-top: 25px;
@@ -53,11 +57,8 @@ font-size: 16px;
 line-height: 22px;
 color: #FAFAFA;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 16px;
+
+
 }
 .Sweet{
     margin-top: 196px;
@@ -214,18 +215,12 @@ color: #000000;
 }
 .bon{
     margin: 11px 0px 28px 0px;
-
     font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-/* or 150% */
-
-
 color: #000000;
-
-opacity: 0.7;
 }
 .doll{
     font-family: 'Hind Madurai';
@@ -259,10 +254,281 @@ opacity: 0.7;
 }
 #buy{
     margin-right: 28px;
+    color: #FAFAFA;
 }
 
 
 .btnFather{
     display: flex;
-    justify-content: end;
+    justify-content: start;
 }
+.cayenne{
+    text-align: end;
+    font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 36px;
+color: #000000;
+
+}
+.bonus{
+    text-align: end;
+    margin: 11px 0px 28px 0px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+opacity: 0.7; 
+
+}
+.rubl{
+    display: flex;
+    justify-content: flex-end;
+    margin: 17px 0px 10px   0px;
+}
+#sing{
+  margin-left: 83%;
+}
+.thanks{
+    margin: 40px 124px 10px 0px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+opacity: 0.7;
+margin-bottom: 20px;
+}
+.mean{
+    display: flex;
+}
+.aroow{
+    display: flex;
+ justify-content: space-around;
+}
+.grate{
+    margin-top: 10px;
+    font-size: 30px;
+}
+.muz{
+    padding-top: 56px;
+    border-radius: 20px;
+    border-top-right-radius: 70px;
+    border-top-left-radius: 70px;
+}
+.simple{
+    margin-top: 87px;
+    margin-bottom: 20px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 44.2px;
+line-height: 52px;
+color: #000000;
+}
+.section4{
+    width: 100%;
+height: 638px;
+left: 0px;
+top: 5114px;
+background: #F8EDF0;
+}
+.some{
+    margin-bottom: 31px;
+    margin-top: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.01em;
+    color: #0F0101;
+    opacity: 0.7;
+}
+.child{
+    
+    text-align: start;
+    margin-top: 39px;
+}
+.touch{
+    margin-left: 22px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+color: #000000;
+}
+.foto{
+    display: flex;
+    margin-top: 20px;
+    
+}
+.google{
+    display: flex;
+    margin-top: 41px;
+    padding-right: 209px;
+}
+.skip{
+  
+width: 30px;
+height: 30px;
+left: 659px;
+top: 4404px;
+background: #FFFFFF;
+border-radius: 3px;
+
+}
+.Have{
+   
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 44px;
+line-height: 52px;
+text-align: center;
+color: #000000; 
+margin-top: 191px;
+margin-bottom: 28px;
+
+}
+.throw{
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+
+  
+    
+}
+.input{
+    padding: 29px 436px 29px 0px;
+    text-align: center;
+    border-style: none;
+    width: 637px;
+height: 74px;
+left: 433px;
+top: 5134px;
+background: #FAFAFA;
+border-radius: 5px;
+
+}
+.set{
+padding: 20px 50px 20px;
+border-style: none;
+background: #D64374;
+border-radius: 5px;
+color: #FFFFFF;
+}
+.ture.btn-danger{
+    font-family: 'Roboto';
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+color: #FFFFFF;
+margin: auto;
+}
+.maybe{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #0F0000;
+    opacity: 0.6;
+}
+.food{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+.fllow{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+color: #FFFFFF;
+}
+.section6{
+    position: absolute;
+width: 100%;
+height: 381px;
+left: 0px;
+top: 5357px;
+background: #0A0808;
+}
+.Home{
+    margin-bottom: 10px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+color: #FFFFFF;
+
+}
+.pet{
+    margin: 10px 20px 19px 13px ;
+    padding: 20px 20px 29px  0px ;
+    border-style: none;
+    background: #D64374;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    
+}
+.input1 {
+    margin: 9px -13px 18px 150px;
+    padding: 8px 110px 2px 28px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.product{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+    opacity: 0.7;
+    margin-bottom: 10px;
+}
+.cardc{
+    display: flex;
+    margin-top: 17px;
+}
+.ul-list{
+    margin-top: 150px;
+    list-style: none;
+}
+.pengivens{
+    margin-top: 70px;
+}
+.mewsle{
+    margin-top: 136px;
+    margin-bottom: 13px;
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: #FFFFFF;
+line-height: 19px;
+}
+.plastik{
+    margin-right: 15px;
+}
+.quate{
+    color: #f6762c;
+}
+
